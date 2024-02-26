@@ -64,7 +64,9 @@ The revenue is formatted as currency, as you specified in the model. However, yo
    
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/f1a5e6e7-990b-4057-bf05-927eda2b569a)
 
-5.![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/196216b0-4a1e-481e-a19c-746614a76300)
+5. With the table still selected, in the Visualizations pane, select the Stacked column chart visualization. The table is changed to a column chart showing revenue by 
+   category.
+.![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/196216b0-4a1e-481e-a19c-746614a76300)
 
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/fa5a25d4-6f8b-4406-82eb-1381dd7068f4)
 
