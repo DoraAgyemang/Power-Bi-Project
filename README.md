@@ -68,8 +68,6 @@ The revenue is formatted as currency, as you specified in the model. However, yo
    category.
 .![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/196216b0-4a1e-481e-a19c-746614a76300)
 
-![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/fa5a25d4-6f8b-4406-82eb-1381dd7068f4)
-
 6. Select a blank area of the report, and then in the **Data pane**, select the **Quantity** field in the **orders** table and the **Category** field in the **products** table. This step results in another column chart showing sales quantity by product category.
 
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/6bb9a4f4-39b0-416c-a220-ac7121f87d15)
