@@ -28,7 +28,8 @@ Do same for any other data you will like to import from the web for visualisatio
 
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/731d4944-c111-4509-b8d3-993aca1a8d5b)
 
-2. In the orders table, select the Revenue field and then in the Properties pane, set its Format property to Currency. This step will ensure that revenue values are displayed as currency in report visualizations.
+2. In the orders table, select the Revenue field and then in the Properties pane, set its Format property to Currency. This step will ensure that revenue values are 
+   displayed as currency in report visualizations.
 
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/86da68e2-a127-4187-a333-3730a92bdb44)
 
@@ -36,4 +37,26 @@ Do same for any other data you will like to import from the web for visualisatio
 4. Select the **City** column header, and then set its **Data Category** property to **City**:
 
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/1b0565c9-5ffb-4789-91fd-ffa7bc6dfa29)
+
+This step will ensure that the values in this column are interpreted as city names, which can be useful if you intend to include map visualizations.
+
+### creating a report
+1. On the **File** menu, select **Options and Settings**. Then select **Options**, and in the **Security** section, ensure that **Use Map and Filled Map** visuals is 
+   enabled and select **OK**.
+
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/de82ed0c-30fe-4102-a3ff-a018ed3fbfdc)
+
+This setting ensures that you can include map visualizations in reports.
+
+2. In the ribbon, select **Text Box** and add a text box containing the text **Sales Report** to the report. Format the text to make it **bold** with a font size of **32**.
+
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/591b6faf-3bff-417a-ad0d-7a2586b81e18)
+
+3. Select any empty area on the report to de-select the text box. Then in the Data pane, expand Products and select the **Category** and **ProductName** field. This step adds a table to the report.
+
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/2fd99baf-5afc-4148-973e-3fc2655c8949)
+
+
+   
+
 
