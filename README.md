@@ -64,4 +64,18 @@ The revenue is formatted as currency, as you specified in the model. However, yo
    
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/f1a5e6e7-990b-4057-bf05-927eda2b569a)
 
+5. With the table still selected, in the **Visualizations** pane, select the **Stacked column chart**visualization. The table is changed to a column chart showing revenue by category.
 
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/fa5a25d4-6f8b-4406-82eb-1381dd7068f4)
+
+6. Select a blank area of the report, and then in the **Data pane**, select the **Quantity** field in the **orders** table and the **Category** field in the **products** table. This step results in another column chart showing sales quantity by product category.
+
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/6bb9a4f4-39b0-416c-a220-ac7121f87d15)
+
+7. With the new column chart selected, in the Visualizations pane, select Pie chart and then resize the chart and position it next to the revenue by category column chart.
+
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/c946cf84-702a-490f-8218-0cc5d9069ba8)
+
+Select a blank area of the report, and then in the **Data pane**, select the**City** field in the **customers** table and then select the **Revenue** field in the **orders** table. This results in a map showing sales revenue by city. Rearrange and resize the visualizations as needed:
+
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/ba22451e-8028-4918-a472-a71920b53d56)
