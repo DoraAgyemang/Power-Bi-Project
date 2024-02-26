@@ -31,3 +31,9 @@ Do same for any other data you will like to import from the web for visualisatio
 2. In the orders table, select the Revenue field and then in the Properties pane, set its Format property to Currency. This step will ensure that revenue values are displayed as currency in report visualizations.
 
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/86da68e2-a127-4187-a333-3730a92bdb44)
+
+3. On the left-side edge, select the **Data view**tab, and then in the **Data** pane, select the **customers**table.
+4. Select the **City** column header, and then set its **Data Category** property to **City**:
+
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/1b0565c9-5ffb-4789-91fd-ffa7bc6dfa29)
+
