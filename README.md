@@ -52,11 +52,16 @@ This setting ensures that you can include map visualizations in reports.
 
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/591b6faf-3bff-417a-ad0d-7a2586b81e18)
 
-3. Select any empty area on the report to de-select the text box. Then in the Data pane, expand Products and select the **Category** and **ProductName** field. This step adds a table to the report.
+3. Select any empty area on the report to de-select the text box. Then in the Data pane, expand Products and select the **Category** and **ProductName** field. This step 
+   adds a table to the report.
 
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/2fd99baf-5afc-4148-973e-3fc2655c8949)
 
+4. With the table still selected, in the **Data** pane, expand **Orders** and select **Revenue**. A Revenue column is added to the table. You may need to expand the size 
+   of the table to see it.
 
+The revenue is formatted as currency, as you specified in the model. However, you didn’t specify the number of decimal places, so the values include fractional amounts. It won’t matter for the visualizations you are going to create, but you could go back to the **Model** or**Data** tab and change the decimal places if you wish.
    
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/f1a5e6e7-990b-4057-bf05-927eda2b569a)
 
 
