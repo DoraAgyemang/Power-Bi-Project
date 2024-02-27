@@ -64,9 +64,11 @@ The revenue is formatted as currency, as you specified in the model. However, we
 
 5. With the table still selected, in the Visualizations pane, we will select the Stacked column chart visualization. The table is changed to a column chart showing revenue 
    by category.
-.![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/196216b0-4a1e-481e-a19c-746614a76300)
+   
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/ce04e7ed-4aba-4e78-b9dc-91a40555bb84)
 
-6. We will select a blank area of the report, and then in the **Data pane**, select the **Quantity** field in the **orders** table and the **Category** field in the 
+
+7. We will select a blank area of the report, and then in the **Data pane**, select the **Quantity** field in the **orders** table and the **Category** field in the 
    **products** table. This step results in another column chart showing sales quantity by product category.
 
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/6bb9a4f4-39b0-416c-a220-ac7121f87d15)
