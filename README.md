@@ -73,7 +73,7 @@ The revenue is formatted as currency, as you specified in the model. However, we
 
 7. With the new column chart selected, in the Visualizations pane, we will select Pie chart and then resize the chart and position it next to the revenue by category column chart.
 
-![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/c946cf84-702a-490f-8218-0cc5d9069ba8)
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/47d4ea60-e9f3-4ea9-a7e3-01ca8e9d2c75)
 
 8. We will Select a blank area of the report, and then in the **Data pane**, select the**City** field in the **customers** table and then select the **Revenue** field in 
   the **orders** table. This results in a map showing sales revenue by city. Rearrange and resize the visualizations as needed:
