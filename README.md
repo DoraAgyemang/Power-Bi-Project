@@ -78,4 +78,4 @@ The revenue is formatted as currency, as you specified in the model. However, we
 8. We will Select a blank area of the report, and then in the **Data pane**, select the**City** field in the **customers** table and then select the **Revenue** field in 
   the **orders** table. This results in a map showing sales revenue by city. Rearrange and resize the visualizations as needed:
 
-![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/ba22451e-8028-4918-a472-a71920b53d56)
+![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/779d557d-a11b-4134-b334-e1ffbcd6a080)
