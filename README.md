@@ -81,3 +81,6 @@ The revenue is formatted as currency, as you specified in the model. However, we
   the **orders** table. This results in a map showing sales revenue by city. Rearrange and resize the visualizations as needed:
 
 ![image](https://github.com/DoraAgyemang/Power-Bi-Project/assets/128803445/779d557d-a11b-4134-b334-e1ffbcd6a080)
+
+### Conclusion
+We have explored our data and created a report showing the sum of Revenue by Category and ProductName, sum of Quantity by Category and the sum of Revenue by City. There are other analysis that can be derived from the dataset as well.
